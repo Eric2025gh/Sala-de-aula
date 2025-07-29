@@ -1,6 +1,6 @@
 
 let a, b, c;
-a = Number(prompt());
+a = Number(prompt());//sim
 b = Number(prompt());
 c = a;
 while (c < b || c > b) {
